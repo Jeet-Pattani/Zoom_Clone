@@ -5,5 +5,6 @@ A Video Conferencing Web App based upon the tutorial by <a href="https://www.you
 
 ## Demo Accounts
 
-user: demo pass: #1231231
-user: demo1 pass: #1231231
+- user: demo pass: #1231231
+
+- user: demo1 pass: #1231231
